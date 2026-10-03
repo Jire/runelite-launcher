@@ -11,6 +11,6 @@
         <module name="launcher.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="24" />
   </component>
 </project>
